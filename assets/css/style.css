@@ -36,3 +36,28 @@ header {
     padding: 50px 20px;
     text-align: center;
 }
+
+section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.section-work,
+.section-contact,
+.section-resume {
+    background: #f4f4f4;
+    margin: 20px 0;
+}
+
+.section-about h2,
+.section-work h2,
+.section-contact h2,
+.section-resume h2 {
+    color: black;
+    margin-bottom: 20px;
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+}
